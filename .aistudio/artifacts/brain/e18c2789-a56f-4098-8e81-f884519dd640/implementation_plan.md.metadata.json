@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to remove all pre-set estimated times, organize tasks as an unconstrained sequential queue inside manual free windows, implement a subtask lap timer that records exact time taken upon completion, and compute productivity scores based on deadline completion, consistency, and focus hours.",
+  "updatedAt":  "2026-11-10T06:59:33.355861744Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

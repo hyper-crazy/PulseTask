@@ -1,0 +1,6 @@
+{
+  "name": "PulseTask - Voice Task & Productivity Manager",
+  "description": "Voice-powered task management app that analyzes spoken tasks, organizes milestones in your manual free time, avoids Google Calendar conflicts, and tracks productivity.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
